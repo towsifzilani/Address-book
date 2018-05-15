@@ -1,0 +1,119 @@
+#userform {
+	background: #8c938c;
+	position: relative;
+	top: 40px;
+	padding: 20px 0;
+	border-radius: 30px;
+	/*margin-right: 10px;*/
+}
+
+.reg {
+	/*margin-right: 30px;*/
+}
+
+
+/*.inputs {
+	width: 80%;
+
+
+}*/
+
+#log-in {
+	font-size: 20px;
+}
+
+
+#side {
+	position: relative;
+	top: 70px;
+}
+
+p {
+	font-size: 14px;
+}
+
+body {
+    background: url('../image/home-bg.jpg') center center no-repeat;
+}
+
+#navigation li a {
+	font-size: 16px;
+	margin: 0 10px;
+	color: #eaeaea;
+}
+
+#navigation li a:hover {
+	color: #d6d8d8;
+}
+
+#rightNav li a {
+	font-size: 16px;
+	color: #eaeaea;
+}
+
+#rightNav li a:hover {
+	color: #d6d8d8;
+}
+
+#side {
+	border: solid 1px #595a5e;
+	box-sizing: border;
+	box-shadow: 2px 3px 2px #595a5e;
+}
+
+#side h1 {
+	text-align: center;
+	color: #aaa;
+}
+
+#side p {
+	margin-top: -5px;
+	color: #5e2705;
+	font-size: 16px;
+
+}
+
+#side p em {
+	font-size: 15px;
+}
+
+#side p strong {
+	font-size: 20px;
+	color: #b8d149;
+}
+
+/*.reg {
+	margin-top: -35px;
+}
+*/
+#footer {
+	text-align: center; 
+	width: 100%; 
+	background: #535453; 
+	position: relative; 
+	bottom: -200px; 
+	padding: 4px;
+}
+
+#footer em, #footer span {
+	color: #9fa39f;
+}
+
+
+#user_form {
+
+	/*margin-top: 100px;*/
+	position: relative;
+	top: 50px;
+	background: #666b66;
+	height: 400px;
+	padding: 30px 20px;
+	border-radius: 50px;
+	box-shadow: 1px 3px 3px #8e8e8e;
+	text-align: center;
+
+}
+
+#loginBox {
+	background: ; box-sizing: border; box-shadow: 2px 4px 3px #000000;
+}
